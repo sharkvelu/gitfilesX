@@ -17,9 +17,12 @@ public class MainSteps {
 		System.out.println("User landed on netbanking page");//line1
 		System.out.println("User landed on netbanking page");//line2
 		System.out.println("User landed on netbanking page");//line3
+		// code frame 4
+		// code frame 4		
+		// code frame 4
+		// code frame 4
 		
-		
-	}
+	}	
 	
 	@Given("User is on Practice landing page")
 	public void user_is_on_practice_landing_page() {
