@@ -14,7 +14,9 @@ public class MainSteps {
 	public void user_is_on_net_banking_landing_page() {
 	    // Write code here that turns the phrase above into concrete actions
 	//Playwright, Selenium, API code,
-		System.out.println("User landed on netbanking page");
+		System.out.println("User landed on netbanking page");//line1
+		System.out.println("User landed on netbanking page");//line2
+		System.out.println("User landed on netbanking page");//line3
 		
 		
 	}
