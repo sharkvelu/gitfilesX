@@ -18,6 +18,12 @@ public class hooks {
 		System.out.println("clear the entries");
 	}
 	
+	@After
+	public void tearDown2()
+	{
+		System.out.println("clear the entries");
+	}
+	
 	@Before("@Mortagage")
 	public void mortgageSetup()
 	{
